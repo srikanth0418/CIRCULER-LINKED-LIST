@@ -3,10 +3,8 @@
 
 struct node
 {
- 
  int data;
  int *next;
- 
 }*head=NULL;
 void add_at_begin()
 {
